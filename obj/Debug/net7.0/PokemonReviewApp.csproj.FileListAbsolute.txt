@@ -74,3 +74,6 @@ C:\dev\dotnet\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\refint\PokemonR
 C:\dev\dotnet\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\PokemonReviewApp.pdb
 C:\dev\dotnet\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\PokemonReviewApp.genruntimeconfig.cache
 C:\dev\dotnet\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\ref\PokemonReviewApp.dll
+C:\dev\dotnet\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\PokemonReviewApp.sourcelink.json
+C:\dev\dotnet\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\AutoMapper.dll
+C:\dev\dotnet\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
