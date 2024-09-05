@@ -13,4 +13,4 @@ namespace PokemonReviewApp.Interfaces
         bool DeleteCategory(Category category);
         bool Save();
     }
-}
+} 
